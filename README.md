@@ -8,6 +8,9 @@
 
 A Foundry VTT module to display CRPG-style Combatant cards in carousel-like format.
 
+# Installing this fork
+Manually install in foundry using this link: https://github.com/JamzTheMan/combat-carousel/releases/latest/download/module.json
+
 # Using the Module
 [Wiki](https://github.com/death-save/combat-carousel/wiki)    
 
